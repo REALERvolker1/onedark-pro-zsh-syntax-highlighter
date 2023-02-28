@@ -9,3 +9,6 @@ To use this, throw it somewhere in your `$XDG_CONFIG_HOME` or something and add 
 source "$ZDOTDIR/syntax-highlighter.zsh"
 # or wherever you put it
 ```
+
+Here's an example:
+![image](https://raw.githubusercontent.com/REALERvolker1/onedark-pro-zsh-syntax-highlighter/main/ksnip_20230227-224619.png)
